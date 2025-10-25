@@ -47,3 +47,6 @@
 
 ### 🚀 Agentic DevOps in Action  
 [🔗 Click here](https://developer.microsoft.com/blog/reimagining-every-phase-of-the-developer-lifecycle#:~:text=At%20Microsoft%20Build%20last%20week,NET%20and%20Java)
+
+### 🚀 What is Azure SRE Agent Preview?
+[🔗 Click here](https://learn.microsoft.com/en-us/azure/sre-agent/overview?tabs=explore)
