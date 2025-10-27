@@ -1,4 +1,4 @@
-# 🧪 **LAB - Day 1**
+# 🧪 **LABs**
 
 ## 🧠 **Hands-on Labs**
 
@@ -8,7 +8,7 @@
 ### 💬 Developing Intelligent Chat Applications with Azure RAG using Python  
 [🔗 Click here](https://cloudthat.learnondemand.net/)
 
-### 🗄️ Integrate Generative AI Capabilities with Azure Database for PostgreSQL Flexible Server  
+### 🗄️ Integrate AI Capabilities with Azure Database for PostgreSQL Flexible Server  
 [🔗 Click here](https://microsoftlearning.github.io/mslearn-postgresql/Instructions/Labs/16-analyze-sentiment.html)
 
 ---
