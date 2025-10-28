@@ -2,14 +2,11 @@
 
 ## 🧠 **Hands-on Labs**
 
-### 🖼️ Developing Multimodal AI Applications for Image Classification using Azure OpenAI GPT-4o  
-[🔗 Click here](https://github.com/upskillsgenai/LTI-Day-1)
+### 🖼️ Developing Multimodal AI Applications for Image Classification using Azure OpenAI GPT-4o  [🔗 Click here](https://github.com/upskillsgenai/LTI-Day-1)
 
-### 💬 Developing Intelligent Chat Applications with Azure RAG using Python  
-[🔗 Click here](https://cloudthat.learnondemand.net/)
+### 💬 Developing Intelligent Chat Applications with Azure RAG using Python  [🔗 Click here](https://cloudthat.learnondemand.net/](https://cloudthat.learnondemand.net/Lab/74511?instructionSetLang=en&classId=716568))
 
-### 🗄️ Integrate AI Capabilities with Azure Database for PostgreSQL Flexible Server  
-[🔗 Click here](https://microsoftlearning.github.io/mslearn-postgresql/Instructions/Labs/16-analyze-sentiment.html)
+### 🗄️ Integrate AI Capabilities with Azure Database for PostgreSQL Flexible Server  [🔗 Click here](https://microsoftlearning.github.io/mslearn-postgresql/Instructions/Labs/16-analyze-sentiment.html)
 
 ---
 
