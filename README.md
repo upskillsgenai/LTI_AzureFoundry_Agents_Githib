@@ -12,38 +12,52 @@
 
 ## 📚 **Learning Resources**
 
-### 🧩 Plan and Prepare to Develop AI Solutions on Azure  
-[🔗 Click here](https://learn.microsoft.com/en-in/training/modules/prepare-azure-ai-development/)
+Plan and prepare to develop AI solutions on Azure
+https://learn.microsoft.com/en-in/training/modules/prepare-azure-ai-development/ 
 
-### 🧠 Explore the Model Catalog  
-[🔗 Click here](https://learn.microsoft.com/en-in/training/modules/explore-models-azure-ai-studio/2-select-model/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.create-custom-copilots-ai-studio)
+Explore the model catalog 
+https://learn.microsoft.com/en-in/training/modules/explore-models-azure-ai-studio/2-select-model/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.create-custom-copilots-ai-studio 
 
-### 🤖 Get Started with AI Agent Development on Azure  
-[🔗 Click here](https://learn.microsoft.com/en-in/training/paths/develop-ai-agents-on-azure/)
+Get started with AI agent development on Azure
+https://learn.microsoft.com/en-in/training/paths/develop-ai-agents-on-azure/ 
+Develop agents with the Azure AI Foundry Agent Service
+https://learn.microsoft.com/en-in/training/modules/develop-ai-agent-azure/4-when-use-agent-service/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-ai-agent-on-azure 
+How to use Azure AI Foundry Agent Service
+https://learn.microsoft.com/en-in/training/paths/develop-ai-agents-on-azure/ 
+What is the Azure AI Foundry SDK
+https://learn.microsoft.com/en-in/training/modules/ai-foundry-sdk/02-azure-ai-foundry-sdk/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.create-custom-copilots-ai-studio 
+Model router for Azure AI Foundry 
+https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-router 
 
-### 🧱 Develop Agents with the Azure AI Foundry Agent Service  
-[🔗 Click here](https://learn.microsoft.com/en-in/training/modules/develop-ai-agent-azure/4-when-use-agent-service/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.develop-ai-agent-on-azure)
+What is Foundry Local?
+https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-local/what-is-foundry-local 
 
-### 🪄 How to Use Azure AI Foundry Agent Service  
-[🔗 Click here](https://learn.microsoft.com/en-in/training/paths/develop-ai-agents-on-azure/)
+Foundry Local architecture
+https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-local/concepts/foundry-local-architecture?source=recommendations 
 
-### 🧰 What is the Azure AI Foundry SDK  
-[🔗 Click here](https://learn.microsoft.com/en-in/training/modules/ai-foundry-sdk/02-azure-ai-foundry-sdk/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.create-custom-copilots-ai-studio)
+Agentic DevOps
+https://azure.microsoft.com/en-us/blog/agentic-devops-evolving-software-development-with-github-copilot-and-microsoft-azure/ 
 
-### 🚦 Model Router for Azure AI Foundry  
-[🔗 Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-router)
+Agentic DevOps in action
+https://developer.microsoft.com/blog/reimagining-every-phase-of-the-developer-lifecycle#:~:text=At%20Microsoft%20Build%20last%20week,NET%20and%20Java 
 
-### 🏠 What is Foundry Local?  
-[🔗 Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-local/what-is-foundry-local)
+Retrieval Augmented Generation (RAG) in Azure AI Search
+https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview?tabs=docs 
 
-### 🏗️ Foundry Local Architecture  
-[🔗 Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-local/concepts/foundry-local-architecture?source=recommendations)
+Prompt engineering techniques
+https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/prompt-engineering
 
-### ⚙️ Agentic DevOps  
-[🔗 Click here](https://azure.microsoft.com/en-us/blog/agentic-devops-evolving-software-development-with-github-copilot-and-microsoft-azure/)
+Prompt flow in Azure AI Foundry portal
+https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/prompt-flow 
+Fine-tune models with Azure AI Foundry
+https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/fine-tuning-overview 
 
-### 🚀 Agentic DevOps in Action  
-[🔗 Click here](https://developer.microsoft.com/blog/reimagining-every-phase-of-the-developer-lifecycle#:~:text=At%20Microsoft%20Build%20last%20week,NET%20and%20Java)
+Reinforcement fine-tuning (RFT)
+https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/reinforcement-fine-tuning 
+Synthetic data generation in Azure AI Foundry portal
+https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/concept-synthetic-data 
 
-### 🚀 What is Azure SRE Agent Preview?
-[🔗 Click here](https://learn.microsoft.com/en-us/azure/sre-agent/overview?tabs=explore)
+Model Distillation
+https://learn.microsoft.com/en-us/samples/azure/azureml-examples/azureml-model-distillation/ 
+Computer Use Agent 
+https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/computer-use?tabs=python 
