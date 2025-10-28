@@ -8,19 +8,19 @@
 
 ### 🗄️ Integrate AI Capabilities with Azure Database for PostgreSQL Flexible Server  [🔗 Click here](https://microsoftlearning.github.io/mslearn-postgresql/Instructions/Labs/16-analyze-sentiment.html)
 
-# Fine Tune Azure AI Foundry Models
+### Fine Tune Azure AI Foundry Models
 
-- ## LAB Instructions [Click here](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/05-Finetune-model.html)
+- #### LAB Instructions [Click here](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/05-Finetune-model.html)
 
-- ## Flow
+- #### Flow
 
-- ### Launch lab: Evaluate generative AI model performance
---Complete the following exercise in lab to get resource creation:
+- #### Launch lab: Evaluate generative AI model performance
+- #### Complete the following exercise in lab to get resource creation:
 
--- **Create an Azure AI Foundry hub and project**
+- #### **Create an Azure AI Foundry hub and project**
 
---### Follow LAB Instructions step-by-step
--- **Fine-tune a model**
+- #### Follow LAB Instructions step-by-step
+- #### **Fine-tune a model**
 
 ---
 
