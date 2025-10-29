@@ -22,6 +22,16 @@
 - #### Follow LAB Instructions step-by-step
 - #### **Fine-tune a model**
 
+# AI Agent Development Labs
+
+## Explore AI Agent development
+[Click here](https://cloudthat.learnondemand.net/Lab/74514?instructionSetLang=en&classId=716568)
+
+## Build a custom chat app with Azure AI Foundry SDK using AI agent
+[Click here](https://cloudthat.learnondemand.net/Lab/74515?instructionSetLang=en&classId=716568)
+
+## Develop an Agent with the Semantic Kernel SDK
+[Click here](https://github.com/upskillsgenai/SemanticKernel.git)
 ---
 
 ## 📚 **Learning Resources**
@@ -82,3 +92,23 @@
 
 ## Computer Use Agent
 [Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/computer-use?tabs=python)
+
+# AI Agent Development Resources
+
+## Get started with AI agent development on Azure
+[Click here](https://learn.microsoft.com/en-in/training/modules/ai-agent-fundamentals/)
+
+## Develop an AI agent with Azure AI Foundry Agent Service
+[Click here](https://learn.microsoft.com/en-in/training/modules/develop-ai-agent-azure/)
+
+## Develop a multi-agent solution with Azure AI Foundry Agent Service
+[Click here](https://learn.microsoft.com/en-in/training/paths/develop-ai-agents-on-azure/)
+
+## Introduction to Semantic Kernel
+[Click here](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+
+## Azure OpenAI
+[Click here](https://microsoft.github.io/PartnerResources/skilling/ai-ml-academy/resources/openai)
+
+## What is provisioned throughput?
+[Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/provisioned-throughput?tabs=global-ptum)
