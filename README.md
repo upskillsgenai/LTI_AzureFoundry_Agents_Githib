@@ -22,15 +22,13 @@
 - #### Follow LAB Instructions step-by-step
 - #### **Fine-tune a model**
 
-# AI Agent Development Labs
-
-## Explore AI Agent development
+### Explore AI Agent development
 [Click here](https://cloudthat.learnondemand.net/Lab/74514?instructionSetLang=en&classId=716568)
 
-## Build a custom chat app with Azure AI Foundry SDK using AI agent
+### Build a custom chat app with Azure AI Foundry SDK using AI agent
 [Click here](https://cloudthat.learnondemand.net/Lab/74515?instructionSetLang=en&classId=716568)
 
-## Develop an Agent with the Semantic Kernel SDK
+### Develop an Agent with the Semantic Kernel SDK
 [Click here](https://github.com/upskillsgenai/SemanticKernel.git)
 ---
 
