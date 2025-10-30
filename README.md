@@ -110,3 +110,58 @@
 
 ## What is provisioned throughput?
 [Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/provisioned-throughput?tabs=global-ptum)
+
+Trustworthy AI for Azure AI Foundry
+https://learn.microsoft.com/en-us/azure/ai-foundry/responsible-use-of-ai-overview 
+
+Implement a responsible generative AI solution in Azure AI Foundry
+https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/ 
+
+Measure and mitigate risks for a generative AI app in Azure AI Foundry
+https://learn.microsoft.com/en-us/training/modules/measure-mitigate-risks-azure-ai-studio/ 
+
+Operationalize AI responsibly with Azure AI Foundry
+https://learn.microsoft.com/en-in/training/paths/operationalize-ai-responsibly/ 
+What is Azure AI Content Safety?
+https://learn.microsoft.com/en-us/azure/ai-services/content-safety/overview
+
+Azure AI Content Safety documentation
+https://learn.microsoft.com/en-us/azure/ai-services/content-safety/ 
+
+Content Safety in the Azure AI Foundry portal
+https://learn.microsoft.com/en-us/azure/ai-foundry/ai-services/content-safety-overview 
+
+Observability in generative AI
+https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/observability 
+
+Monitor your generative AI applications (preview)
+https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/monitor-applications
+
+Trace and Observe AI Agents in Azure AI Foundry (preview)
+https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/trace-agents-sdk 
+
+Monitor your generative AI applications (preview)
+https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/monitor-applications 
+
+Azure Machine Learning model monitoring
+https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-monitoring?view=azureml-api-2 
+
+AI Red Teaming Agent (preview)
+https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/ai-red-teaming-agent
+
+Run AI Red Teaming Agent locally (preview)
+https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/run-scans-ai-red-teaming-agent 
+
+Microsoft Entra agents
+https://learn.microsoft.com/en-us/entra/security-copilot/entra-agents 
+
+Use Microsoft Purview capabilities to develop and deploy secure and compliant Azure AI Foundry or custom AI apps
+https://learn.microsoft.com/en-us/purview/developer/secure-ai-with-purview 
+
+
+Use Microsoft Purview to manage data security & compliance for Azure AI services
+https://learn.microsoft.com/en-us/purview/ai-azure-services 
+
+Microsoft Purview data security and compliance protections for generative AI apps
+https://learn.microsoft.com/en-us/purview/ai-microsoft-purview 
+
