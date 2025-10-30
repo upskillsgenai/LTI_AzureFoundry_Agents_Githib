@@ -1,35 +1,79 @@
 # 🧪 **LABs**
 
-## 🧠 **Hands-on Labs**
 
-### 🖼️ Developing Multimodal AI Applications for Image Classification using Azure OpenAI GPT-4o  [🔗 Click here](https://github.com/upskillsgenai/LTI-Day-1)
+## 1. Multimodal AI: Image Classification
 
-### 💬 Developing Intelligent Chat Applications with Azure RAG using Python  [🔗 Click here](https://cloudthat.learnondemand.net/](https://cloudthat.learnondemand.net/Lab/74511?instructionSetLang=en&classId=716568))
+- **Lab Resource:** [Developing Multimodal AI Applications for Image Classification using Azure OpenAI GPT-4o](https://github.com/upskillsgenai/LTI-Day-1)
 
-### 🗄️ Integrate AI Capabilities with Azure Database for PostgreSQL Flexible Server  [🔗 Click here](https://microsoftlearning.github.io/mslearn-postgresql/Instructions/Labs/16-analyze-sentiment.html)
+---
 
-### Fine Tune Azure AI Foundry Models
+## 2. Intelligent Chat Applications with Azure RAG
 
-- #### LAB Instructions [Click here](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/05-Finetune-model.html)
+- **Lab Access:** [cloudthat.learnondemand.net](https://cloudthat.learnondemand.net/)
+- **Lab:** Create a generative AI app that uses your own data
 
-- #### Flow
+---
 
-- #### Launch lab: Evaluate generative AI model performance
-- #### Complete the following exercise in lab to get resource creation:
+## 3. Integrate Generative AI with Azure Database for PostgreSQL
 
-- #### **Create an Azure AI Foundry hub and project**
+- Evaluate reviews of given AI listings.
+- **Lab Resource:** [Analyze sentiment in PostgreSQL](https://microsoftlearning.github.io/mslearn-postgresql/Instructions/Labs/16-analyze-sentiment.html)
 
-- #### Follow LAB Instructions step-by-step
-- #### **Fine-tune a model**
+---
 
-### Explore AI Agent development
-[Click here](https://cloudthat.learnondemand.net/Lab/74514?instructionSetLang=en&classId=716568)
+## 4. Fine Tune Azure AI Foundry Models
 
-### Build a custom chat app with Azure AI Foundry SDK using AI agent
-[Click here](https://cloudthat.learnondemand.net/Lab/74515?instructionSetLang=en&classId=716568)
+- **Lab Instructions:** [Fine-tune a model](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/05-Finetune-model.html)
+- **Flow:**
+  - Launch lab: Evaluate generative AI model performance and complete exercise for resource creation.
+    - Create an Azure AI Foundry hub and project.
+  - Follow step-by-step instructions to fine-tune a model.
 
-### Develop an Agent with the Semantic Kernel SDK
-[Click here](https://github.com/upskillsgenai/SemanticKernel.git)
+---
+
+## 5. Explore AI Agent Development
+
+- **Lab:** [AI Agent Development](https://cloudthat.learnondemand.net/Lab/74514?instructionSetLang=en&classId=716568)
+
+---
+
+## 6. Build a Custom Chat App with Azure AI Foundry SDK
+
+- **Lab:** [Develop an AI agent](https://cloudthat.learnondemand.net/Lab/74515?instructionSetLang=en&classId=716568)
+
+---
+
+## 7. Develop an Agent with Semantic Kernel SDK
+
+- **Repo:** [Semantic Kernel Examples](https://github.com/upskillsgenai/SemanticKernel.git)
+
+---
+
+## 8. Apply Content Filters to Prevent Harmful Output
+
+- **Lab:** [Content Filtering Lab](https://cloudthat.learnondemand.net/Lab/74512?instructionSetLang=en&classId=716568)
+
+---
+
+## 9. Build & Deploy Q&A Copilot with Prompt Flow in Azure AI Foundry
+
+**Requirements:**
+- Launch lab: Evaluate generative AI model performance.
+- **Instructions:** [Use prompt flow chat](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/03-Use-prompt-flow-chat.html)
+- Create Hub resources using lab credentials.
+- Follow step-by-step lab instructions.
+- Start compute session (use dropdown).
+- Start with advanced sessions.
+- Select compute type:
+  - **Compute Instance**
+  - **Compute instance name:** `ci089757`
+- Keep remaining settings default, then review and create.
+- Once compute is created, select from dropdown (wait 5–10 minutes).
+- When compute is ready (turns green), proceed to next steps.
+
+---
+
+**Note:** Follow each lab’s instructions carefully for resource setup and successful completion.
 ---
 
 ## 📚 **Learning Resources**
@@ -111,57 +155,53 @@
 ## What is provisioned throughput?
 [Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/provisioned-throughput?tabs=global-ptum)
 
-Trustworthy AI for Azure AI Foundry
-https://learn.microsoft.com/en-us/azure/ai-foundry/responsible-use-of-ai-overview 
+## Trustworthy AI for Azure AI Foundry
+[Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/responsible-use-of-ai-overview)
 
-Implement a responsible generative AI solution in Azure AI Foundry
-https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/ 
+## Implement a responsible generative AI solution in Azure AI Foundry
+[Click here](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/)
 
-Measure and mitigate risks for a generative AI app in Azure AI Foundry
-https://learn.microsoft.com/en-us/training/modules/measure-mitigate-risks-azure-ai-studio/ 
+## Measure and mitigate risks for a generative AI app in Azure AI Foundry
+[Click here](https://learn.microsoft.com/en-us/training/modules/measure-mitigate-risks-azure-ai-studio/)
 
-Operationalize AI responsibly with Azure AI Foundry
-https://learn.microsoft.com/en-in/training/paths/operationalize-ai-responsibly/ 
-What is Azure AI Content Safety?
-https://learn.microsoft.com/en-us/azure/ai-services/content-safety/overview
+## Operationalize AI responsibly with Azure AI Foundry
+[Click here](https://learn.microsoft.com/en-in/training/paths/operationalize-ai-responsibly/)
 
-Azure AI Content Safety documentation
-https://learn.microsoft.com/en-us/azure/ai-services/content-safety/ 
+## What is Azure AI Content Safety?
+[Click here](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/overview)
 
-Content Safety in the Azure AI Foundry portal
-https://learn.microsoft.com/en-us/azure/ai-foundry/ai-services/content-safety-overview 
+## Azure AI Content Safety documentation
+[Click here](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/)
 
-Observability in generative AI
-https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/observability 
+## Content Safety in the Azure AI Foundry portal
+[Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/ai-services/content-safety-overview)
 
-Monitor your generative AI applications (preview)
-https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/monitor-applications
+## Observability in generative AI
+[Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/observability)
 
-Trace and Observe AI Agents in Azure AI Foundry (preview)
-https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/trace-agents-sdk 
+## Monitor your generative AI applications (preview)
+[Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/monitor-applications)
 
-Monitor your generative AI applications (preview)
-https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/monitor-applications 
+## Trace and Observe AI Agents in Azure AI Foundry (preview)
+[Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/trace-agents-sdk)
 
-Azure Machine Learning model monitoring
-https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-monitoring?view=azureml-api-2 
+## Azure Machine Learning model monitoring
+[Click here](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-monitoring?view=azureml-api-2)
 
-AI Red Teaming Agent (preview)
-https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/ai-red-teaming-agent
+## AI Red Teaming Agent (preview)
+[Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/ai-red-teaming-agent)
 
-Run AI Red Teaming Agent locally (preview)
-https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/run-scans-ai-red-teaming-agent 
+## Run AI Red Teaming Agent locally (preview)
+[Click here](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/run-scans-ai-red-teaming-agent)
 
-Microsoft Entra agents
-https://learn.microsoft.com/en-us/entra/security-copilot/entra-agents 
+## Microsoft Entra agents
+[Click here](https://learn.microsoft.com/en-us/entra/security-copilot/entra-agents)
 
-Use Microsoft Purview capabilities to develop and deploy secure and compliant Azure AI Foundry or custom AI apps
-https://learn.microsoft.com/en-us/purview/developer/secure-ai-with-purview 
+## Use Microsoft Purview capabilities to develop and deploy secure and compliant Azure AI Foundry or custom AI apps
+[Click here](https://learn.microsoft.com/en-us/purview/developer/secure-ai-with-purview)
 
+## Use Microsoft Purview to manage data security & compliance for Azure AI services
+[Click here](https://learn.microsoft.com/en-us/purview/ai-azure-services)
 
-Use Microsoft Purview to manage data security & compliance for Azure AI services
-https://learn.microsoft.com/en-us/purview/ai-azure-services 
-
-Microsoft Purview data security and compliance protections for generative AI apps
-https://learn.microsoft.com/en-us/purview/ai-microsoft-purview 
-
+## Microsoft Purview data security and compliance protections for generative AI apps
+[Click here](https://learn.microsoft.com/en-us/purview/ai-microsoft-purview)
