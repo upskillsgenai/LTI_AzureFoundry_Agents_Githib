@@ -67,6 +67,8 @@
 - Select compute type:
   - **Compute Instance**
   - **Compute instance name:** `ci089757`
+  - **VM Type:** `CPU`
+  - **VM Family:** `STANDARD_E4ds_v4`
 - Keep remaining settings default, then review and create.
 - Once compute is created, select from dropdown (wait 5–10 minutes).
 - When compute is ready (turns green), proceed to next steps.
